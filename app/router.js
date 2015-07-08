@@ -9,7 +9,9 @@ Router.map(function() {
     // this.route('index', { path: '/'});
     this.route('results', function() {
         // this.route('index', { path: '/'});
-        // this.route('2015')
+    });
+    this.route('2015', function () {
+        this.route('index', { path: '/'});
     });
     this.route('nationalities');
     this.route('nationality', { path: '/nationalities/:code'});

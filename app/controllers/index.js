@@ -41,5 +41,7 @@ saltwellFellRace.set('skills', 'ER, NS, PM, LK');
 
 export default Ember.Controller.extend({
     colour: newburnRace.kitRequired('trainers') + saltwellFellRace.kitRequired('fell shoes, full cover'),
-    testing: saltwellFellRace.get('skills')
+    testing: saltwellFellRace.get('skills'),
+    someProperty: true
+
 });

@@ -1,0 +1,18 @@
+<strong>2015</strong><br />
+
+<ul>
+{{#each x in controller.model}}
+        <ul>{{x}}</ul>
+{{/each}}
+</ul>
+<hr />
+{{someArray.length}}
+<hr />
+<ul>
+{{#each someArray as |y|}}
+        <ul>{{y}}</ul>
+{{/each}}
+</ul>
+
+<hr />
+{{if maybeIAmTrue 'I am true' 'I am false'}}
