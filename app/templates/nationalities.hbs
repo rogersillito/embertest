@@ -1,0 +1,16 @@
+<div class="content">
+
+<h4>Nationalities</h4>
+
+<ul>
+{{#each item in controller.model}}
+<li><a href="/nationalities/{{item.code}}">{{item.nationalOrigin}}</a></li>
+{{/each}}
+</ul>
+
+<hr />
+
+{{outlet}}
+
+</div>
+

@@ -1,0 +1,18 @@
+<div class="content">
+
+<h4>Race Results</h4>
+
+{{#each item in controller.model}}
+<p>
+<strong>{{item.name}}</strong> ({{item.date}})<br />
+Type = {{item.type}}<br />
+Distance = {{item.distance}}
+</p>
+{{/each}}
+
+<hr />
+
+{{outlet}}
+
+</div>
+
