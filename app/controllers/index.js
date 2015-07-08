@@ -20,7 +20,10 @@ var FellRace = Race.extend({
             this.set('skillsExperience', value);
         }
         return 'Skills/Experience: ' + this.get('skillsExperience');
-    }.property('skillsExperience')
+    }.property('skillsExperience'),
+    skillsChanged: function() {
+        console.log(this.get('raceName') + ': skills updated, ' + this.get('skills'));
+    }.observes('skills')//.on('init')
 });
 
 Race.reopen({kitRequired: function(kit) { return this._super(kit) + ' (!)'; }});

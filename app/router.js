@@ -6,10 +6,10 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
-    this.route('index');
+    // this.route('index', { path: '/'});
     this.route('results', function() {
-        this.route('index');
-        this.route('2015');
+        // this.route('index', { path: '/'});
+        // this.route('2015')
     });
     this.route('nationalities');
     this.route('nationality', { path: '/nationalities/:code'});
