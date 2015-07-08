@@ -16,14 +16,14 @@ var FellRace = Race.extend({
         return this._super(kit + ', compass, whistle');
     },
     skills: function(key, value, previous) {
-        if (arguments.length > 1) {
+        if (arguments.length > 1 && previous !== value) {
             this.set('skillsExperience', value);
         }
         return 'Skills/Experience: ' + this.get('skillsExperience');
     }.property('skillsExperience')
 });
 
-Race.reopen({kitRequired: function(kit) { return this._super(kit) + ' (!)'; }})
+Race.reopen({kitRequired: function(kit) { return this._super(kit) + ' (!)'; }});
 
 var newburnRace = Race.create({
     raceName: 'newburnRace'
