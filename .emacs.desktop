@@ -2,72 +2,105 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Thu Jul  9 17:11:55 2015
+;; Created Wed Jul 22 17:29:13 2015
 ;; Desktop file format version 206
 ;; Emacs version 24.5.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (21918 40267 90006 700000) (desktop . "206") "Roger@BORIS" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Source Code Pro-normal-normal-normal-mono-16-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#E0E0E0") (background-color . "#202020") (mouse-color . "khaki") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (fullscreen . fullscreen) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "DarkGoldenrod2") (environment) (powerline-cache) (frameset--id . "83DB-AC46-5A51-5A02") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (maximized) (visibility . t) (height . 53) (width . 190) (left + -1920) (top . 0)) ((min-height . 28) (min-width . 20) (min-height-ignore . 20) (min-width-ignore . 8) (min-height-safe . 7) (min-width-safe . 4) (min-pixel-height . 560) (min-pixel-width . 200) (min-pixel-height-ignore . 400) (min-pixel-width-ignore . 80) (min-pixel-height-safe . 140) (min-pixel-width-safe . 40)) vc (pixel-width . 1920) (pixel-height . 1040) (total-width . 192) (total-height . 52) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 1920) (pixel-height . 620) (total-width . 192) (total-height . 31) (normal-height . 0.5961538461538462) (normal-width . 1.0) (combination-limit . t) (hc (pixel-width . 1920) (pixel-height . 260) (total-width . 192) (total-height . 13) (normal-height . 0.41127694859038144) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 960) (pixel-height . 260) (total-width . 96) (total-height . 13) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 160) (total-width . 96) (total-height . 8) (normal-height . 0.6000000000000001) (normal-width . 1.0) (buffer "application.js<routes>" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 335) (start . 331))) (leaf (last . t) (pixel-width . 960) (pixel-height . 100) (total-width . 96) (total-height . 5) (normal-height . 0.3999999999999999) (normal-width . 1.0) (buffer "post.hbs" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 550) (start . 495)))) (vc (last . t) (pixel-width . 960) (pixel-height . 260) (total-width . 96) (total-height . 13) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 120) (total-width . 96) (total-height . 6) (normal-height . 0.5) (normal-width . 1.0) (buffer "app.css" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 73) (start . 40))) (leaf (last . t) (pixel-width . 960) (pixel-height . 140) (total-width . 96) (total-height . 7) (normal-height . 0.5) (normal-width . 1.0) (buffer "router.js" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 400) (start . 365))))) (hc (last . t) (pixel-width . 1920) (pixel-height . 360) (total-width . 192) (total-height . 18) (normal-height . 0.5887230514096186) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 1430) (pixel-height . 360) (total-width . 143) (total-height . 18) (normal-height . 1.0) (normal-width . 0.6620689655172414) (combination-limit) (leaf (pixel-width . 1430) (pixel-height . 80) (total-width . 143) (total-height . 4) (normal-height . 0.18181818181818185) (normal-width . 1.0) (buffer "post.js" (selected . t) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 368) (start . 367))) (leaf (pixel-width . 1430) (pixel-height . 80) (total-width . 143) (total-height . 4) (normal-height . 0.23076923076923078) (normal-width . 1.0) (buffer "bbcLink.js" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 76) (start . 1))) (leaf (pixel-width . 1430) (pixel-height . 120) (total-width . 143) (total-height . 6) (normal-height . 0.33741258741258745) (normal-width . 1.0) (buffer "application.hbs" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 84) (start . 49))) (leaf (last . t) (pixel-width . 1430) (pixel-height . 80) (total-width . 143) (total-height . 4) (normal-height . 0.25) (normal-width . 1.0) (buffer "index.hbs<templates>" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 68) (start . 56)))) (leaf (last . t) (pixel-width . 490) (pixel-height . 360) (total-width . 49) (total-height . 18) (normal-height . 1.0) (normal-width . 0.33793103448275863) (buffer "Ember_learning (1).txt" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 4659) (start . 4255))))) (leaf (last . t) (pixel-width . 1920) (pixel-height . 420) (total-width . 192) (total-height . 21) (normal-height . 0.40384615384615385) (normal-width . 1.0) (buffer "*helm-mode-cd*" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated . side) (point . 74) (start . 1)))))])
+(setq desktop-saved-frameset [frameset 1 (21935 50393 250503 700000) (desktop . "206") "Roger@BORIS" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Source Code Pro-normal-normal-normal-mono-16-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#E0E0E0") (background-color . "#202020") (mouse-color . "khaki") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (fullscreen . fullscreen) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "DarkGoldenrod2") (environment) (powerline-cache) (frameset--id . "83DB-AC46-5A51-5A02") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (maximized) (visibility . t) (height . 53) (width . 190) (left + -1920) (top . 0)) ((min-height . 12) (min-width . 20) (min-height-ignore . 9) (min-width-ignore . 8) (min-height-safe . 3) (min-width-safe . 4) (min-pixel-height . 240) (min-pixel-width . 200) (min-pixel-height-ignore . 180) (min-pixel-width-ignore . 80) (min-pixel-height-safe . 60) (min-pixel-width-safe . 40)) vc (pixel-width . 1920) (pixel-height . 1040) (total-width . 192) (total-height . 52) (normal-height . 1.0) (normal-width . 1.0) (combination-limit . t) (hc (pixel-width . 1920) (pixel-height . 560) (total-width . 192) (total-height . 28) (normal-height . 0.543801652892562) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 773) (pixel-height . 560) (total-width . 77) (total-height . 28) (normal-height . 1.0) (normal-width . 0.39916186485070715) (buffer "router.js" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 404) (start . 1))) (vc (last . t) (pixel-width . 1147) (pixel-height . 560) (total-width . 115) (total-height . 28) (normal-height . 1.0) (normal-width . 0.6008381351492929) (combination-limit) (leaf (pixel-width . 1147) (pixel-height . 280) (total-width . 115) (total-height . 14) (normal-height . 0.5) (normal-width . 1.0) (buffer "nationality.js" (selected . t) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 356) (start . 23))) (leaf (last . t) (pixel-width . 1147) (pixel-height . 280) (total-width . 115) (total-height . 14) (normal-height . 0.5) (normal-width . 1.0) (buffer "nationalities.js" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 267) (start . 23))))) (hc (last . t) (pixel-width . 1920) (pixel-height . 480) (total-width . 192) (total-height . 24) (normal-height . 0.45619834710743806) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 640) (pixel-height . 480) (total-width . 64) (total-height . 24) (normal-height . 1.0) (normal-width . 0.3308938839519083) (buffer "application.hbs" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 66) (start . 1))) (leaf (last . t) (pixel-width . 1280) (pixel-height . 480) (total-width . 128) (total-height . 24) (normal-height . 1.0) (normal-width . 0.669106116048092) (buffer "Ember_learning.txt" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 4) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 6010) (start . 5155))))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring nil)
 (setq regexp-search-ring '("button" "intro"))
-(setq register-alist '((48 . "    ---->>\n")))
-(setq file-name-history '("d:/DEV/embertest/app/templates/index.hbs" "d:/DEV/embertest/app/templates/application.hbs" "d:/DEV/embertest/app/templates/index.hbs" "d:/DEV/embertest/app/templates/post.hbs" "d:/DEV/embertest/app/controllers/post.js" "d:/DEV/embertest/.emacs.desktop" "d:/DEV/embertest/app/routes/2015/index.js" "d:/DEV/embertest/app/templates/nationality.hbs" "c:/DEV/embertest/app/controllers/index.js" "c:/DEV/embertest/app/routes/application.js" "c:/DEV/embertest/app/controllers/application.js" "c:/DEV/embertest/app/templates/nationalities.hbs" "c:/DEV/embertest/app/router.js" "c:/DEV/embertest/app/templates/application.hbs" "c:/DEV/embertest/app/routes/nationalities.js" "c:/DEV/embertest/app/templates/nationality.hbs" "c:/DEV/embertest/app/templates/results.hbs" "c:/DEV/embertest/app/controllers/results.js" "c:/DEV/embertest/" "c:/DEV/MyImpact/src/BDD.MyImpact.Tasks/Dto/PublicationIqaDto.cs" "c:/DEV/bookmarklets/ixBug2Csv.js" "c:/DEV/MyImpact/tools/_BUILD/rake/buildable_solutions/DataAmendmentsReminder.rb" "//mana2/HOSTED/MyImpact/NU.CallWebProfileService/NU.CallWebProfileService.exe.config" "//mana2/HOSTED/MyImpact/NU.CallWebProfileService/process_logfiles.py" "c:/DEV/MyImpact/src/BDD.MyImpact.Tests.Acceptance/TestHelpers/WebDriverExtensions.cs" "c:/DEV/MyImpact/tools/_BUILD/rake/buildable_solutions/CallWebProfileService.rb" "c:/DEV/MyImpact/rakefile.rb" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Services/Repository.cs" "//mana2/HOSTED/MyImpact/Logs/NU.CallWebProfileService/NU.CallWebProfileService_stdout (2015-06-25 09.16.00).txt" "c:/DEV/StaffDetailService/tools/_BUILD/BuildHelpers.rb" "c:/DEV/StaffDetailService/rakefile.rb" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Services/Repository.cs" "c:/dev/staffdetailservice/app/nu.bsd.staffdetailservice.tasks/services/simpledataconnection.cs" "c:/DEV/MyImpact/tools/_BUILD/rake/BuildHelpers.rb" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/CollectionRefreshTask.cs" "c:/DEV/StaffDetailService/tools/_BUILD/DbMigrator.rb" "c:/dev/StaffDetailService/tools/_BUILD/DbMigrator.rb" "c:/DEV/StaffDetailService/NuGet_Dependencies.xml" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tests.Unit/Tasks/IndexDefinitions/StaffDetails_ByNameLoginAndIidSpecs.cs" "c:/DEV/MyImpact/src/NU.MigrateMyImpactDb/2014_11/20141119103735/add computed columns and indexes.sql" "c:/DEV/MyImpact/src/NU.MigrateMyImpactDb/2012_03/20120309144328/create_people_ext_ref_table.sql" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tests.Unit/Tasks/DataRefreshTaskSpecs.cs" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Services/RedirectedRecordRemover.cs" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.sln" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Raven/RavenDBExtensions.cs" "d:/tools/_SETUP/AppendToSysPath emacs.cmd" "d:/tools/_SETUP/AppendToSysPath  - WinRAR.cmd" "d:/tools/_SETUP/AppendToSysPath  - Vim.cmd" "d:/tools/_SETUP/AppendToSysPath  - UnixUtils wbin.cmd" "d:/tools/_SETUP/AppendToSysPath  - UnixUtils sh.cmd" "d:/tools/_SETUP/AppendToSysPath  - UnixUtils bin.cmd" "d:/tools/_SETUP/AppendToSysPath  - Copy (9).cmd" "d:/tools/_SETUP/AppendToSysPath  - PuTTY.cmd" "d:/tools/_SETUP/AppendToSysPath  - phantomjs.cmd" "d:/tools/_SETUP/AppendToSysPath  - 7-Zip.cmd" "d:/tools/_SETUP/AppendToSysPath  - node.js.cmd" "d:/tools/_SETUP/AppendToSysPath  - LINQpad.cmd" "d:/tools/_SETUP/AppendToSysPath  - iperf.cmd" "c:/DEV/MyImpact/tools/_scripts/rebuild_all_people_flattened.bat" "c:/DEV/MyImpact/tools/_BUILD/Deploy_MyImpact.bat" "c:/DEV/WRSDevTools/BatchScripts/AppendToSysPath.cmd" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Services/RedirectedRecordRemover.cs" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Init/Raven/DocumentStoreInitializer.cs" "d:/_WINSETUP/WinToolkit Windows 8.1 Enterprise component list.txt" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.DataLoad/ConsoleRegistry.cs" "d:/tools/emacs/VERSION.txt" "c:/DEV/MyImpact/src/NU.MigrateMyImpactDb/Profiles/Live/LiveProfile.cs" "d:/Google Drive/tools/emacs/config/themes/desert-theme.el" "d:/tools/emacs/VERSION.txt" "d:/tools/emacs/runemacs.cmd" "d:/tools/emacs/emacs.cmd" "d:/tools/emacs/rebuild_OpenInNewOrExistingEmacs.cmd" "d:/tools/emacs/emacs.cmd" "d:/tools/emacs/VERSION.txt" "c:/DEV/WRSDevTools/AhkScripts/OpenExplorerSelectionWith.ahk" "c:/DEV/WRSDevTools/AhkScripts/_SharedHotkeys.ahk" "d:/tools/emacs/VERSION.txt" "d:/tools/emacs/config/.spacemacs" "c:/DEV/WRSDevTools/AhkScripts/OpenExplorerSelectionWith.ahk" "d:/tools/AutoHotkey/Template.ahk" "d:/tools/AutoHotkey/license.txt" "c:/DEV/WRSDevTools/AhkScripts/OpenExplorerSelectionWith.ahk" "c:/DEV/WRSDevTools/AhkScripts/testnamingmode/do_underscore.ahk" "c:/DEV" "c:/DEV/JavaScript-Koans/koans/dont-peek/observable/eventDispatcher.js" "c:/DEV/" "c:/DEV" "c:/DEV/" "c:/Users/nwrs1/AppData/Roaming/.spacemacs" "c:/Users/nwrs1/AppData/Roaming/.emacs.d/core/templates/.spacemacs.template"))
+(setq register-alist '((48 . "        var url = '/staffdetailservice/api/v1/nationalities';\n")))
+(setq file-name-history '("d:/DEV/embertest/app/routes/nationalities.js" "c:/DEV/embertest/app/routes/nationality.js" "d:/DEV/embertest/config/environment.js" "d:/DEV/embertest/app/templates/index.hbs" "d:/DEV/embertest/app/templates/application.hbs" "d:/DEV/embertest/app/templates/index.hbs" "d:/DEV/embertest/app/templates/post.hbs" "d:/DEV/embertest/app/controllers/post.js" "d:/DEV/embertest/.emacs.desktop" "d:/DEV/embertest/app/routes/2015/index.js" "d:/DEV/embertest/app/templates/nationality.hbs" "c:/DEV/embertest/app/controllers/index.js" "c:/DEV/embertest/app/routes/application.js" "c:/DEV/embertest/app/controllers/application.js" "c:/DEV/embertest/app/templates/nationalities.hbs" "c:/DEV/embertest/app/router.js" "c:/DEV/embertest/app/templates/application.hbs" "c:/DEV/embertest/app/routes/nationalities.js" "c:/DEV/embertest/app/templates/nationality.hbs" "c:/DEV/embertest/app/templates/results.hbs" "c:/DEV/embertest/app/controllers/results.js" "c:/DEV/embertest/" "c:/DEV/MyImpact/src/BDD.MyImpact.Tasks/Dto/PublicationIqaDto.cs" "c:/DEV/bookmarklets/ixBug2Csv.js" "c:/DEV/MyImpact/tools/_BUILD/rake/buildable_solutions/DataAmendmentsReminder.rb" "//mana2/HOSTED/MyImpact/NU.CallWebProfileService/NU.CallWebProfileService.exe.config" "//mana2/HOSTED/MyImpact/NU.CallWebProfileService/process_logfiles.py" "c:/DEV/MyImpact/src/BDD.MyImpact.Tests.Acceptance/TestHelpers/WebDriverExtensions.cs" "c:/DEV/MyImpact/tools/_BUILD/rake/buildable_solutions/CallWebProfileService.rb" "c:/DEV/MyImpact/rakefile.rb" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Services/Repository.cs" "//mana2/HOSTED/MyImpact/Logs/NU.CallWebProfileService/NU.CallWebProfileService_stdout (2015-06-25 09.16.00).txt" "c:/DEV/StaffDetailService/tools/_BUILD/BuildHelpers.rb" "c:/DEV/StaffDetailService/rakefile.rb" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Services/Repository.cs" "c:/dev/staffdetailservice/app/nu.bsd.staffdetailservice.tasks/services/simpledataconnection.cs" "c:/DEV/MyImpact/tools/_BUILD/rake/BuildHelpers.rb" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/CollectionRefreshTask.cs" "c:/DEV/StaffDetailService/tools/_BUILD/DbMigrator.rb" "c:/dev/StaffDetailService/tools/_BUILD/DbMigrator.rb" "c:/DEV/StaffDetailService/NuGet_Dependencies.xml" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tests.Unit/Tasks/IndexDefinitions/StaffDetails_ByNameLoginAndIidSpecs.cs" "c:/DEV/MyImpact/src/NU.MigrateMyImpactDb/2014_11/20141119103735/add computed columns and indexes.sql" "c:/DEV/MyImpact/src/NU.MigrateMyImpactDb/2012_03/20120309144328/create_people_ext_ref_table.sql" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tests.Unit/Tasks/DataRefreshTaskSpecs.cs" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Services/RedirectedRecordRemover.cs" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.sln" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Raven/RavenDBExtensions.cs" "d:/tools/_SETUP/AppendToSysPath emacs.cmd" "d:/tools/_SETUP/AppendToSysPath  - WinRAR.cmd" "d:/tools/_SETUP/AppendToSysPath  - Vim.cmd" "d:/tools/_SETUP/AppendToSysPath  - UnixUtils wbin.cmd" "d:/tools/_SETUP/AppendToSysPath  - UnixUtils sh.cmd" "d:/tools/_SETUP/AppendToSysPath  - UnixUtils bin.cmd" "d:/tools/_SETUP/AppendToSysPath  - Copy (9).cmd" "d:/tools/_SETUP/AppendToSysPath  - PuTTY.cmd" "d:/tools/_SETUP/AppendToSysPath  - phantomjs.cmd" "d:/tools/_SETUP/AppendToSysPath  - 7-Zip.cmd" "d:/tools/_SETUP/AppendToSysPath  - node.js.cmd" "d:/tools/_SETUP/AppendToSysPath  - LINQpad.cmd" "d:/tools/_SETUP/AppendToSysPath  - iperf.cmd" "c:/DEV/MyImpact/tools/_scripts/rebuild_all_people_flattened.bat" "c:/DEV/MyImpact/tools/_BUILD/Deploy_MyImpact.bat" "c:/DEV/WRSDevTools/BatchScripts/AppendToSysPath.cmd" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Tasks/Services/RedirectedRecordRemover.cs" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.Init/Raven/DocumentStoreInitializer.cs" "d:/_WINSETUP/WinToolkit Windows 8.1 Enterprise component list.txt" "c:/DEV/StaffDetailService/app/NU.BSD.StaffDetailService.DataLoad/ConsoleRegistry.cs" "d:/tools/emacs/VERSION.txt" "c:/DEV/MyImpact/src/NU.MigrateMyImpactDb/Profiles/Live/LiveProfile.cs" "d:/Google Drive/tools/emacs/config/themes/desert-theme.el" "d:/tools/emacs/VERSION.txt" "d:/tools/emacs/runemacs.cmd" "d:/tools/emacs/emacs.cmd" "d:/tools/emacs/rebuild_OpenInNewOrExistingEmacs.cmd" "d:/tools/emacs/emacs.cmd" "d:/tools/emacs/VERSION.txt" "c:/DEV/WRSDevTools/AhkScripts/OpenExplorerSelectionWith.ahk" "c:/DEV/WRSDevTools/AhkScripts/_SharedHotkeys.ahk" "d:/tools/emacs/VERSION.txt" "d:/tools/emacs/config/.spacemacs" "c:/DEV/WRSDevTools/AhkScripts/OpenExplorerSelectionWith.ahk" "d:/tools/AutoHotkey/Template.ahk" "d:/tools/AutoHotkey/license.txt" "c:/DEV/WRSDevTools/AhkScripts/OpenExplorerSelectionWith.ahk" "c:/DEV/WRSDevTools/AhkScripts/testnamingmode/do_underscore.ahk" "c:/DEV" "c:/DEV/JavaScript-Koans/koans/dont-peek/observable/eventDispatcher.js" "c:/DEV/" "c:/DEV" "c:/DEV/" "c:/Users/nwrs1/AppData/Roaming/.spacemacs" "c:/Users/nwrs1/AppData/Roaming/.emacs.d/core/templates/.spacemacs.template"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 206
-  "d:/DEV/embertest/app/controllers/post.js"
-  "post.js"
+  "c:/DEV/embertest/app/routes/nationality.js"
+  "nationality.js"
   'js-mode
   '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
-  368
-  '(244 nil)
+  356
+  '(356 nil)
   nil
   nil
   '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
 
 (desktop-create-buffer 206
-  "d:/DEV/embertest/app/templates/post.hbs"
-  "post.hbs"
-  'fundamental-mode
+  "d:/Google Drive/JavaScript_Learning/Ember_learning.txt"
+  "Ember_learning.txt"
+  'text-mode
   '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  550
-  '(550 nil)
+  6010
+  '(6085 nil)
   nil
   nil
   '((indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
-
-(desktop-create-buffer 206
-  "d:/DEV/embertest/app/routes/application.js"
-  "application.js"
-  'js-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
-  335
-  '(295 nil)
-  nil
-  nil
-  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
-
-(desktop-create-buffer 206
-  "d:/DEV/embertest/app/helpers/bbcLink.js"
-  "bbcLink.js"
-  'js-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
-  76
-  '(75 nil)
-  nil
-  nil
-  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . utf-8-dos)))
 
 (desktop-create-buffer 206
   "d:/DEV/embertest/app/templates/application.hbs"
   "application.hbs"
   'fundamental-mode
   '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  84
-  '(85 nil)
+  66
+  '(66 nil)
+  nil
+  nil
+  '((indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/DEV/embertest/app/routes/nationalities.js"
+  "nationalities.js"
+  'js-mode
+  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
+  267
+  '(356 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/DEV/embertest/app/router.js"
+  "router.js"
+  'js-mode
+  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
+  404
+  '(405 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/DEV/embertest/config/environment.js"
+  "environment.js"
+  'js-mode
+  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
+  717
+  '(718 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/DEV/embertest/app/helpers/link-for.js"
+  "link-for.js"
+  'js-mode
+  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
+  1
+  '(180 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . utf-8-dos)))
+
+(desktop-create-buffer 206
+  "d:/DEV/embertest/app/templates/bob-part.hbs"
+  "bob-part.hbs"
+  'fundamental-mode
+  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
+  89
+  '(90 nil)
   nil
   nil
   '((indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
@@ -77,22 +110,55 @@
   "index.hbs"
   'fundamental-mode
   '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  68
-  '(159 nil)
+  202
+  '(203 nil)
   nil
   nil
   '((indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
 
 (desktop-create-buffer 206
-  "d:/Google Drive/JavaScript_Learning/Ember_learning (1).txt"
-  "Ember_learning (1).txt"
-  'text-mode
+  "d:/DEV/embertest/app/routes/application.js"
+  "application.js"
+  'js-mode
+  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
+  221
+  '(313 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/DEV/embertest/app/helpers/high-light.js"
+  "high-light.js"
+  'js-mode
+  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
+  250
+  '(251 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . utf-8-dos)))
+
+(desktop-create-buffer 206
+  "d:/DEV/embertest/app/templates/post.hbs"
+  "post.hbs"
+  'fundamental-mode
   '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  4659
-  '(4659 nil)
+  20
+  '(550 nil)
   nil
   nil
   '((indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/DEV/embertest/app/controllers/post.js"
+  "post.js"
+  'js-mode
+  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
+  454
+  '(244 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
 
 (desktop-create-buffer 206
   "d:/DEV/embertest/app/controllers/application.js"
@@ -104,83 +170,6 @@
   nil
   nil
   '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
-
-(desktop-create-buffer 206
-  "d:/DEV/embertest/app/templates/bobPart.hbs"
-  "bobPart.hbs"
-  'fundamental-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  80
-  '(81 nil)
-  nil
-  nil
-  '((indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
-
-(desktop-create-buffer 206
-  "d:/DEV/embertest/app/router.js"
-  "router.js"
-  'js-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode rainbow-delimiters-mode highlight-numbers-mode auto-highlight-symbol-mode goto-address-prog-mode hs-minor-mode)
-  400
-  '(400 nil)
-  nil
-  nil
-  '((show-trailing-whitespace . 1) (indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
-
-(desktop-create-buffer 206
-  nil
-  "templates"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  305
-  '(nil nil)
-  t
-  '("d:/DEV/embertest/app/templates/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "app"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  869
-  '(557 nil)
-  t
-  '("d:/DEV/embertest/app/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "styles"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  187
-  '(nil nil)
-  t
-  '("d:/DEV/embertest/app/styles/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  "d:/DEV/embertest/app/styles/app.css"
-  "app.css"
-  'css-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode vi-tilde-fringe-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  73
-  '(73 nil)
-  nil
-  nil
-  '((indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
-
-(desktop-create-buffer 206
-  nil
-  "routes"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  363
-  '(nil nil)
-  t
-  '("d:/DEV/embertest/app/routes/")
-  '((indicate-empty-lines)))
 
 (desktop-create-buffer 206
   "d:/DEV/embertest/app/templates/nationality.hbs"
@@ -216,28 +205,6 @@
   '((indicate-empty-lines . t) (buffer-file-coding-system . utf-8-dos)))
 
 (desktop-create-buffer 206
-  nil
-  "2015"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  195
-  '(1 nil)
-  t
-  '("d:/DEV/embertest/app/controllers/2015/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "2015"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  242
-  '(nil nil)
-  t
-  '("d:/DEV/embertest/app/routes/2015/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
   "d:/DEV/embertest/app/templates/nationalities.hbs"
   "nationalities.hbs"
   'fundamental-mode
@@ -247,92 +214,4 @@
   nil
   nil
   '((indicate-empty-lines . t) (buffer-file-coding-system . undecided-dos)))
-
-(desktop-create-buffer 206
-  nil
-  "2015"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  195
-  '(nil nil)
-  t
-  '("d:/DEV/embertest/app/templates/2015/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "controllers"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  436
-  '(nil nil)
-  t
-  '("d:/DEV/embertest/app/controllers/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "embertest"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  974
-  '(nil nil)
-  t
-  '("d:/DEV/embertest/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "config"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  183
-  '(nil nil)
-  t
-  '("d:/DEV/embertest/config/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "JavaScript_Learning"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  704
-  '(nil nil)
-  t
-  '("d:/Google Drive/JavaScript_Learning/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "Google Drive"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  3030
-  '(nil nil)
-  t
-  '("d:/Google Drive/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "d:/"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  386
-  '(nil nil)
-  t
-  '("d:/")
-  '((indicate-empty-lines)))
-
-(desktop-create-buffer 206
-  nil
-  "c:/"
-  'dired-mode
-  '(override-global-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode guide-key-mode undo-tree-mode volatile-highlights-mode linum-mode projectile-mode helm-mode)
-  1569
-  '(nil nil)
-  t
-  '("c:/")
-  '((indicate-empty-lines)))
 

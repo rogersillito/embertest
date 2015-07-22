@@ -6,6 +6,7 @@ export default Ember.Route.extend({
     // },
     model: function() {
         var url = '/staffdetailservice/api/v1/nationalities';
+        // var url = '/api/v1/nationalities';
         return $.ajax(url);
 
         // return [ {
