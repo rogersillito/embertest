@@ -1,0 +1,14 @@
+{{outlet}}
+
+<h4>A list of blog posts:</h4>
+
+{{#each model as |post|}}
+{{!-- or in non-block form!
+{{blog-post title=post.title date=post.date}}
+--}}
+  {{#blog-post title=post.title date=post.date action="editPost" item=post}}
+    {{post.body}}
+    [date in template = {{post.date}}]
+    <b>FROM THE TEMPLATE!</b>
+  {{/blog-post}}
+{{/each}}
