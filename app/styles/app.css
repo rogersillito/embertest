@@ -3,3 +3,16 @@
     font: 90% Tahoma;
     color: #333;
 }
+
+.small {
+    font-size: 70%;
+    font-family: Tahoma;
+}
+
+.grey {
+    color: #999;
+}
+
+.bold {
+    font-weight: bold;
+}

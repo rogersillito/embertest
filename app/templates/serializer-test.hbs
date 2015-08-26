@@ -1,0 +1,18 @@
+<p>Demo of using the JSONSerializer to get orgunits from StaffDetailService, then assemble a hierarchical model, and display it with a recursive unit tree component:</p>
+
+{{unit-tree unit=model}}
+{{!--
+{{model.name}}
+{{#each child in model.children}}
+(CHILD = {{child.name}})<br />
+{{/each}}
+--}}
+
+{{!--
+{{#each unit in controller.model}}
+{{unit.name}}
+(PARENT = {{unit.parent.parent.name}})<br />
+{{/each}}
+--}}
+
+{{outlet}}

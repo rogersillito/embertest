@@ -1,0 +1,7 @@
+<li>{{unit.name}} {{#if unit.hasChildren}}
+{{#each child in unit.children}}
+{{unit-tree unit=child}}
+{{/each}}
+{{else}}
+<span class="small grey bold">(LEAF)</span>
+{{/if}}</li> 

@@ -17,6 +17,7 @@ Router.map(function() {
   this.route('nationality', { path: '/nationalities/:code'});
   this.route('component-test');
   this.route('model-test');
+  this.route('serializer-test');
 });
 
 export default Router;
