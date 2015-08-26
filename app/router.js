@@ -16,6 +16,7 @@ Router.map(function() {
   this.route('nationalities');
   this.route('nationality', { path: '/nationalities/:code'});
   this.route('component-test');
+  this.route('model-test');
 });
 
 export default Router;
