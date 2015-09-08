@@ -15,3 +15,5 @@
 /libpeerconnection.log
 npm-debug.log
 testem.log
+restore.cmd
+.emacs.desktop.lock
